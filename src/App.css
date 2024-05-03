@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+.note{
+  color: rgb(0, 0, 0);
+  font-size: x-large;
+  background: rgba(46, 192, 236, 0.637);
+  padding: 10px;
+  border-radius: 5px;
+}
+.green{
+  color: green;
+}

@@ -9,6 +9,12 @@ function App() {
   return (
     <>
       <div>
+        <div className='note'>
+          I WANT TO COMPLEET THIS PROJECT WITH IN THE DED LINE BUT SOME OF PERSONAL RESONS AM NOT ABLE TO DO..IF YOU GIVE ME 2 MORE DAYS ..I WILL SUBMIT THIS ON MONDAY 
+        </div>
+        <div className='green'>
+         i will submit in the project in the  same repo and hosted link
+        </div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
